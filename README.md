@@ -18,6 +18,10 @@
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
+🎤 Ask me about **Space, Astronmy, Music, Literature & Cars**
+
+🧿 Aim? To achieve mastery in **machine learning, deep learning and web3**
+
  </div>
 
  <div align="center"> 
