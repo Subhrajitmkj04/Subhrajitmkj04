@@ -1,66 +1,96 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Subhrajitmkj04.Subhrajitmkj04" />
+# Hi, I'm Subhrajit 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Subhrajit+Mukherjee!;" />
-</h1>
+I'm an undergraduate researcher in NLP at **Sister Nivedita University, Kolkata** (BCA Honors with Research). I work on how large language models represent culture, with a focus on Indic languages and Indian cultural and literary heritage.
 
-<h3 align="center">A passionate CS student from INDIA </h3>
+[![Email](https://img.shields.io/badge/Email-subhrajitmukherjee04@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:subhrajitmukherjee04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhrajit%20Mukherjee-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhrajit-mukherjee)
 
-<br/>
+## 🔬 Research interests
 
-<div align="center">
- 
-🏫 I’m currently studying at **Sister Nivedita University** 
- 
-🔭 I’m currently working on **a app that will aids farmers by helping them in buying/selling and diagnosis of plants and crops**
- 
-🌱 I’m currently learning **Artificial Intelligence and Machine Learning**
+- **Cultural knowledge and bias in LLMs**: how models represent, flatten or stereotype culture, especially Indian regional culture
+- **Mechanistic interpretability**: probing what models know internally versus what they say
+- **Low-resource Indic NLP**: Indic languages, code-mixed text, cross-cultural settings
+- **Computational humanities**: NLP and knowledge graphs for heritage texts such as the Mahabharata
+- **Multimodal reasoning**: turning metaphorical text into coherent visual storytelling
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+## 🏛️ Where I do research
 
-🎤 Ask me about **Space, Astronmy, Music, Literature & Cars**
+| Role | Where | Since |
+|---|---|---|
+| Student Researcher | Aethersaga Lab, Sister Nivedita University | Feb 2026 |
+| Research Intern | Jadavpur University, under Dr. Dipankar Das | May 2026 |
+| Research Intern | Dhrisha Lab, IIT Patna, under Dr. Sriparna Saha | Aug 2026 |
 
-🧿 Aim? To achieve mastery in **machine learning, deep learning and web3**
+## 📄 Publications
 
- </div>
+**The Mirage of Diversity: Unmasking the Cultural Vocabulary Ceiling in LLMs**
+C3NLP Workshop, ACL 2026 · [ACL Anthology](https://aclanthology.org/2026.c3nlp-1.7/)
+Shows that LLMs asked to adapt stories to a culture fail to scale cultural vocabulary with text length, and introduces CSAI, a metric that penalizes stereotype-heavy, incoherent keyword insertion. Across three models, CSAI is only 0.09–0.19 of the human baseline.
 
- <div align="center"> 
-  <a href="mailto:subhrajitmukherjee04@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/subhrajit-mukherjee-38847a243/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  
-</div>
+**Named Entity Recognition in the Mahabharata using LLM-Generated Silver Annotations**
+IEEE PuneCon 2026 (accepted)
+Adapts a lightweight spaCy NER model to the Mahabharata using only LLM-generated silver annotations: 81.1 micro span-F1 on human-corrected gold data, versus 32.7 for the pretrained baseline.
 
-<hr/>
+## 🛠️ Projects
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,vscode,github,figma" />
-    <img src="https://skillicons.dev/icons?i=python,c,java,numpy,pandas,matplotlib,seaborn,tableau,power bi" /><br>
-</div>
+- **Mahabharata Interpretable NER**: interpretable NER for mythological entities in the Mahabharata corpus (Python, spaCy)
+- **Comparative Study of Lexical Algorithms with Visualizations**: One-Hot, Bag-of-Words and TF-IDF pipelines benchmarked on 20 Newsgroups; TF-IDF reached 96.5% accuracy (Python, Scikit-learn, NLTK)
+- **Customer Churn Predictor with Explainability**: end-to-end churn pipeline on the IBM Telco dataset with SHAP explanations (Python, Scikit-learn, XGBoost)
 
-<br/>
-<hr/>
+## 💻 Tech stack
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+**Languages**
 
-<hr/>
+<table>
+  <tr>
+    <td align="center" width="110"><img src="assets/icons/python.svg" height="48" alt="Python"/><br/><sub>Python</sub></td>
+    <td align="center" width="110"><img src="assets/icons/java.svg" height="48" alt="Java"/><br/><sub>Java</sub></td>
+    <td align="center" width="110"><img src="assets/icons/c.svg" height="48" alt="C"/><br/><sub>C</sub></td>
+    <td align="center" width="110"><img src="assets/icons/sql.svg" height="48" alt="SQL"/><br/><sub>SQL</sub></td>
+  </tr>
+</table>
 
-<p>
-  <img align="center" width="500px" style="padding: 20px 110px" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=Subhrajitmkj04&background=000000&stroke=ffffff&ring=fbff00&fire=fbff00&currStreakLabel=fbff00&sideLabels=fbff00&sideNums=ffffff&dates=ffffff" 
-       alt="Subhrajitmkj04" />
-</p>
+**ML / NLP**
 
-<img src = "https://github-readme-activity-graph.vercel.app/graph?username=Subhrajitmkj04&bg_color=000000&color=fbff00&line=f5d400&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"> </img>
+<table>
+  <tr>
+    <td align="center" width="110"><img src="assets/icons/pytorch.svg" height="48" alt="PyTorch"/><br/><sub>PyTorch</sub></td>
+    <td align="center" width="110"><img src="assets/icons/tensorflow.svg" height="48" alt="TensorFlow"/><br/><sub>TensorFlow</sub></td>
+    <td align="center" width="110"><img src="assets/icons/huggingface.svg" height="48" alt="HuggingFace"/><br/><sub>HuggingFace</sub></td>
+    <td align="center" width="110"><img src="assets/icons/scikitlearn.svg" height="48" alt="Scikit-learn"/><br/><sub>Scikit-learn</sub></td>
+    <td align="center" width="110"><img src="assets/icons/spacy.svg" height="48" alt="spaCy"/><br/><sub>spaCy</sub></td>
+    <td align="center" width="110"><img src="assets/icons/nltk.svg" height="48" alt="NLTK"/><br/><sub>NLTK</sub></td>
+    <td align="center" width="110"><img src="assets/icons/unsloth.png" height="48" alt="Unsloth"/><br/><sub>Unsloth</sub></td>
+  </tr>
+</table>
 
+**Data & Visualization**
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="assets/icons/numpy.svg" height="48" alt="NumPy"/><br/><sub>NumPy</sub></td>
+    <td align="center" width="110"><img src="assets/icons/pandas.svg" height="48" alt="Pandas"/><br/><sub>Pandas</sub></td>
+    <td align="center" width="110"><img src="assets/icons/matplotlib.svg" height="48" alt="Matplotlib"/><br/><sub>Matplotlib</sub></td>
+    <td align="center" width="110"><img src="assets/icons/seaborn.svg" height="48" alt="Seaborn"/><br/><sub>Seaborn</sub></td>
+    <td align="center" width="110"><img src="assets/icons/powerbi.svg" height="48" alt="Power BI"/><br/><sub>Power BI</sub></td>
+  </tr>
+</table>
+
+**Web & Backend**
+
+<table>
+  <tr>
+    <td align="center" width="110"><img src="assets/icons/html5.svg" height="48" alt="HTML5"/><br/><sub>HTML5</sub></td>
+    <td align="center" width="110"><img src="assets/icons/css3.svg" height="48" alt="CSS3"/><br/><sub>CSS3</sub></td>
+    <td align="center" width="110"><img src="assets/icons/javascript.svg" height="48" alt="JavaScript (ES6+)"/><br/><sub>JavaScript (ES6+)</sub></td>
+    <td align="center" width="110"><img src="assets/icons/react.svg" height="48" alt="React"/><br/><sub>React</sub></td>
+    <td align="center" width="110"><img src="assets/icons/supabase.svg" height="48" alt="Supabase"/><br/><sub>Supabase</sub></td>
+    <td align="center" width="110"><img src="assets/icons/firebase.svg" height="48" alt="Firebase"/><br/><sub>Firebase</sub></td>
+  </tr>
+</table>
+
+**Tools:** Git/GitHub, LaTeX
+
+## 🤝 Open to
+
+Research collaborations in cultural NLP, Indic and low-resource languages, and interpretability. Feel free to reach out by email.
