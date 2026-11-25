@@ -2,8 +2,11 @@
 
 I'm an undergraduate researcher in NLP at **Sister Nivedita University, Kolkata** (BCA Honors with Research). I work on how large language models represent culture, with a focus on Indic languages and Indian cultural and literary heritage.
 
+[![Website](https://img.shields.io/badge/Website-subhrajitmkj04.github.io-FFD166?style=flat&logo=googlechrome&logoColor=black)](https://subhrajitmkj04.github.io)
 [![Email](https://img.shields.io/badge/Email-subhrajitmukherjee04@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:subhrajitmukherjee04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Subhrajit%20Mukherjee-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/subhrajit-mukherjee)
+
+🌐 **[subhrajitmkj04.github.io](https://subhrajitmkj04.github.io)**: my personal site. Read the [résumé](https://subhrajitmkj04.github.io/#hire), or [play through my journey](https://subhrajitmkj04.github.io/#play) in one of five mini-games.
 
 ## 🔬 Research interests
 
